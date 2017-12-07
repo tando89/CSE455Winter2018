@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial01</string>
+    <string name="hintForName">Full Name</string>
+    <string name="hintForEmail">Email</string>
+    <string name="hintForMajor">Major</string>
+    <string name="bntText">Submit</string>
+</resources>
